@@ -1,9 +1,9 @@
-# <a id="getting-started"></a>Getting started with Page Analyzer
+<h1 id="getting-started">Getting started with Page Analyzer</h1>
 Page Analyzer shows you the paths to and from specific pages on your website on a smaller scale.
 The tool allows you to explore paths that lead to a page and then view the individual contacts that took this particular path experience with its accompanying values.
 
-## <a id="key-concept"></a>Key Concepts
+<h2 id="key-concept">Key Concepts</h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare urna est, non efficitur est sagittis sed. Etiam et diam rhoncus, pretium arcu vitae, lacinia neque. In lacinia eros ac porta varius. Duis eu diam vitae nisi porta blandit nec sed ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean sapien nibh, accumsan ut purus vitae, ornare hendrerit risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas maximus urna sodales tellus laoreet, vitae accumsan diam condimentum. Vivamus pellentesque, augue volutpat consectetur consequat, arcu ante commodo nisl, eu semper eros nulla laoreet massa. Cras consectetur mattis condimentum. Proin cursus neque non fermentum pellentesque. Vestibulum ac eros eu sapien pharetra sagittis sed ut nulla. Nulla facilisi.
 
-### <a id="visualization-walkthrough"></a>Visualization Walkthrough
+<h3 id="visualization-walkthrough"></h3>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare urna est, non efficitur est sagittis sed. Etiam et diam rhoncus, pretium arcu vitae, lacinia neque. In lacinia eros ac porta varius. Duis eu diam vitae nisi porta blandit nec sed ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean sapien nibh, accumsan ut purus vitae, ornare hendrerit risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas maximus urna sodales tellus laoreet, vitae accumsan diam condimentum. Vivamus pellentesque, augue volutpat consectetur consequat, arcu ante commodo nisl, eu semper eros nulla laoreet massa. Cras consectetur mattis condimentum. Proin cursus neque non fermentum pellentesque. Vestibulum ac eros eu sapien pharetra sagittis sed ut nulla. Nulla facilisi.
